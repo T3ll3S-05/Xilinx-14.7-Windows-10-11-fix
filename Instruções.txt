@@ -1,0 +1,12 @@
+1º - execute o instalador do Xilinx (xsetup.exe), o instalador NÃO deve ser o 14.7 (Windows 10) mas sim o 14.7 normal
+2º - execute o arquivo xilinx_14.7_fix.bat como administrador
+3º - prossiga normalmente com a instalação
+4º - quando chegar aos 91% por aí o processo webtalk irá ser acionado, o script termina-o automaticamente para não ficar preso na instalação
+4º - após suceder a instalação vá a Manage Xilinx Licenses e instale a licença
+
+Dicas:
+
+Caso o terminal pareça parado clique numa tecla qualquer para fazer refresh
+Caso o script não copie todos os arquivos, no .bat está a localização de todos os caminhos que precisam das mudanças
+Caso o processo xwebtalk.exe não seja terminado automaticamente, vá ao gestor de tarefas e termine-o manualmente
+Seja feliz agora :)
