@@ -16,8 +16,9 @@ This repository contains a script that resolves most (if not all) issues with Xi
 2. Before proceeding with the installation, execute the `xilinx_14.7_fix.bat` file as **Administrator**.  
 3. Continue with the installation process as usual.  
 4. Around 91% progress, the WebTalk process (`xwebtalk.exe`) will be triggered.  
-   - The script will automatically terminate this process to prevent the installation from freezing.  
-5. After installation is complete, open **Manage Xilinx Licenses** and install the license file.  
+   - The script will automatically terminate this process to prevent the installation from freezing.
+   - After that, the script will replace certain DLLs in the `Xilinx` directory.
+5. After installation is complete, open **Manage Xilinx Licenses** and install your license file.  
 
 ---
 
