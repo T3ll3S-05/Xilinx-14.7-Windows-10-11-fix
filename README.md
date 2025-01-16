@@ -36,6 +36,7 @@ This repository contains a script that resolves most (if not all) issues with Xi
 ---
 
 ## Final Note  
-The modified DLLs are credited to the user "czietz".  
-Source of the DLLs and details on what was modified: https://www.exxosforum.co.uk/forum/viewtopic.php?p=95884#p95884.
 Enjoy using Xilinx 14.7 without issues! 😊
+The modified DLLs are credited to the user "czietz".  
+Source of the DLLs and details on what was modified: https://www.exxosforum.co.uk/forum/viewtopic.php?p=95884#p95884
+
